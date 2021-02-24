@@ -30,3 +30,34 @@ img {
 li:nth-child(2) {
   padding: 2rem;
 }
+header {
+  position:sticky;
+
+}
+nav{
+border-bottom: 5px solid DED9DD;
+}
+nav ul {
+  
+list-style-type: none;
+}
+section img {
+  float: left;
+  max-width: 200px;
+  padding-right: 10px;
+
+}
+a {
+font-family: Quicksand;
+color: 639A88;
+}
+a:hover {
+  font-family: Quicksand;
+  color: E1BB47;
+
+}
+section p{
+
+  font-family: Quicksand;
+  font-size: small;
+}
